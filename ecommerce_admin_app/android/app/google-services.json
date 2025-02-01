@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "653537698647",
+    "project_id": "shopify-app-81cc8",
+    "storage_bucket": "shopify-app-81cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:4c87f52f5fef376d881412",
+        "android_client_info": {
+          "package_name": "com.ecom2admin.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:f171921845bc8fe6881412",
+        "android_client_info": {
+          "package_name": "com.ecomm2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:5848a8e28540243e881412",
+        "android_client_info": {
+          "package_name": "com.ecomm2ad2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:fdf2f5aa02353880881412",
+        "android_client_info": {
+          "package_name": "com.ecomshop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:4596abc1b7e55a91881412",
+        "android_client_info": {
+          "package_name": "com.example.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:ed02d6f242703081881412",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:e5d852043b30c03f881412",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653537698647:android:8c0bc5415e92dbfe881412",
+        "android_client_info": {
+          "package_name": "com.example.shopify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8FY_6U2Uj7_QyYz5JM4pf4sS227uLaRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
